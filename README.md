@@ -31,9 +31,6 @@ My name is Oxa Defrizal Khasay. I'm from Semarang, live in Yogyakarta and curren
 
 ---
 
-<h1 align="center">Hi 👋, I'm Oxa Defrizal Khasay</h1>
-<h3 align="center">I'm still a beginner and learning programming language</h3>
-
 
 
 
